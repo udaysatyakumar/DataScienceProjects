@@ -7,22 +7,22 @@ Objective: Predict student performance based on various socio-economic and acade
 
 🔹 Project Workflow
 
-✅ Data Collection: Student scores and demographic details 
-✅ Data Preprocessing: Handling missing data, encoding categorical variables 
-✅ Feature Engineering: Selecting important features influencing student performance 
-✅ Model Building: Training Linear Regression, Decision Tree, Random Forest, and XGBoost 
-✅ Model Evaluation: RMSE, R² score, MAE for performance measurement 
-✅ Deployment: Deploying the model using Flask 
+✅ Data Collection: Student scores and demographic details  
+✅ Data Preprocessing: Handling missing data, encoding categorical variables   
+✅ Feature Engineering: Selecting important features influencing student performance   
+✅ Model Building: Training Linear Regression, Decision Tree, Random Forest, and XGBoost   
+✅ Model Evaluation: RMSE, R² score, MAE for performance measurement   
+✅ Deployment: Deploying the model using Flask   
 
 📂 Project Structure
 
 StudentPerformance/  
-│── data/        # Raw student performance datasets  
-│── notebooks/   # Jupyter notebooks for data exploration   
-│── src/         # Scripts for data preprocessing and modeling  
-│── models/      # Trained ML models  
-│── app/         # Flask/Streamlit app for deployment    
-│── README.md    # Project documentation  
+│── data/        # Raw student performance datasets    
+│── notebooks/   # Jupyter notebooks for data exploration     
+│── src/         # Scripts for data preprocessing and modeling    
+│── models/      # Trained ML models    
+│── app/         # Flask/Streamlit app for deployment      
+│── README.md    # Project documentation    
 
 🚀 How to Run the Project?
 
