@@ -17,12 +17,14 @@ This repository contains end-to-end **Data Science & Machine Learning** projects
 #### 📂 **Project Structure**  
 
 NetworkSecurity/
-│── data/ # Raw and processed datasets
-│── notebooks/ # Jupyter notebooks for EDA and modeling 
-│── src/ # Source code for preprocessing, training, and evaluation 
-│── models/ # Trained ML models 
-│── deployment/ # Docker and AWS deployment scripts 
-│── README.md # Project documentation
+│── data/                # Raw and processed datasets
+│── notebooks/           # Jupyter notebooks for EDA and modeling
+│── src/                 # Source code for preprocessing, training, and evaluation
+│── models/              # Trained ML models
+│── deployment/          # Docker and AWS deployment scripts
+│── README.md            # Project documentation
+
+
 
 🚀 How to Run the Project?
 
@@ -42,6 +44,7 @@ python src/train_model.py
 4️⃣ Deploy using Docker & AWS:
 
 docker build -t network-security .
+
 docker run -p 8080:8080 network-security
 
 📢 Contact & Contribution
