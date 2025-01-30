@@ -17,12 +17,12 @@ This repository contains end-to-end **Data Science & Machine Learning** projects
 #### 📂 **Project Structure**  
 
 NetworkSecurity/
-│── data/                # Raw and processed datasets
-│── notebooks/           # Jupyter notebooks for EDA and modeling
-│── src/                 # Source code for preprocessing, training, and evaluation
-│── models/              # Trained ML models
-│── deployment/          # Docker and AWS deployment scripts
-│── README.md            # Project documentation
+│── data/                # Raw and processed datasets   
+│── notebooks/           # Jupyter notebooks for EDA and modeling   
+│── src/                 # Source code for preprocessing, training, and evaluation   
+│── models/              # Trained ML models   
+│── deployment/          # Docker and AWS deployment scripts   
+│── README.md            # Project documentation   
 
 
 
