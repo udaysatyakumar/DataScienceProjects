@@ -25,23 +25,31 @@ NetworkSecurity/
 │── README.md # Project documentation
 
 🚀 How to Run the Project?
+
 1️⃣ Clone the repository:
+
 git clone https://github.com/udaysatyakumar/DataScienceProjects.git
    cd NetworkSecurity
 
 2️⃣ Install dependencies:
+
 pip install -r requirements.txt
 
 3️⃣ Run the training script:
+
 python src/train_model.py
 
 4️⃣ Deploy using Docker & AWS:
+
 docker build -t network-security .
 docker run -p 8080:8080 network-security
 
 📢 Contact & Contribution
-📧 Email: [udaysatyakumar42@gmail.com]
-👨‍💻 LinkedIn: [www.linkedin.com/in/udaysatyakumar42]
+
+📧 Email: [udaysatyakumar42@gmail.com] 
+
+👨‍💻 LinkedIn: [www.linkedin.com/in/udaysatyakumar42] 
+
 🌟 If you find this project helpful, give it a ⭐ on GitHub!
 
 
