@@ -11,12 +11,12 @@ Objective: Detect phishing attacks and classify network security threats using M
 
 🔹 Project Workflow
 
-✅ Data Collection: Network traffic and phishing data sources
-✅ Data Preprocessing: Handling missing values, encoding categorical features
-✅ Feature Engineering: Selecting significant security-related features
-✅ Model Building: Training Logistic Regression, Decision Tree, Random Forest, and Gradient Boosting models
-✅ Model Evaluation: Accuracy, Precision, Recall, F1-score for performance assessment
-✅ Deployment: Deploying the trained model using AWS & Docker
+✅ Data Collection: Network traffic and phishing data sources  
+✅ Data Preprocessing: Handling missing values, encoding categorical features  
+✅ Feature Engineering: Selecting significant security-related features  
+✅ Model Building: Training Logistic Regression, Decision Tree, Random Forest, and Gradient Boosting models  
+✅ Model Evaluation: Accuracy, Precision, Recall, F1-score for performance assessment  
+✅ Deployment: Deploying the trained model using AWS & Docker  
 
 📂 Project Structure
 
