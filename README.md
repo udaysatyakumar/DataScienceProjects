@@ -16,7 +16,7 @@ This repository contains end-to-end **Data Science & Machine Learning** projects
 
 #### 📂 **Project Structure**  
 
-NetworkSecurity/
+NetworkSecurity/   
 │── data/                # Raw and processed datasets   
 │── notebooks/           # Jupyter notebooks for EDA and modeling   
 │── src/                 # Source code for preprocessing, training, and evaluation   
