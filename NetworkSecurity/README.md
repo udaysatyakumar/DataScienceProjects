@@ -50,10 +50,10 @@ docker run -p 8080:8080 network-security
 
 🛠 Tech Stack & Tools Used
 
-✔ Programming Language: Python
-✔ DataBase: MYSQL
-✔ Libraries & Frameworks: Pandas, NumPy, Scikit-learn, MLFLOW,DagsHub, Matplotlib, Flask
-✔ Deployment: Docker, AWS (ECR, ECS), GitHub Actions
+✔ Programming Language: Python  
+✔ DataBase: MYSQL  
+✔ Libraries & Frameworks: Pandas, NumPy, Scikit-learn, MLFLOW,DagsHub, Matplotlib, Flask  
+✔ Deployment: Docker, AWS (ECR, ECS), GitHub Actions  
 
 📢 Contact & Contribution
 
