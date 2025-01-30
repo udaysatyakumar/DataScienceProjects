@@ -15,7 +15,7 @@ Objective: Predict student performance based on various socio-economic and acade
 
 StudentPerformance/  
 │── data/        # Raw student performance datasets  
-│── notebooks/   # Jupyter notebooks for data exploration 
+│── notebooks/   # Jupyter notebooks for data exploration   
 │── src/         # Scripts for data preprocessing and modeling  
 │── models/      # Trained ML models  
 │── app/         # Flask/Streamlit app for deployment    
