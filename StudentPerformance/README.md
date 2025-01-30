@@ -11,18 +11,20 @@ Objective: Predict student performance based on various socio-economic and acade
 
 📂 Project Structure
 
-StudentPerformance/
-│── data/                # Raw student performance datasets
-│── notebooks/           # Jupyter notebooks for data exploration
-│── src/                 # Scripts for data preprocessing and modeling
-│── models/              # Trained ML models
-│── app/                 # Flask/Streamlit app for deployment
-│── README.md            # Project documentation
+StudentPerformance/ 
+│── data/                # Raw student performance datasets 
+│── notebooks/           # Jupyter notebooks for data exploration 
+│── src/                 # Scripts for data preprocessing and modeling 
+│── models/              # Trained ML models 
+│── app/                 # Flask/Streamlit app for deployment 
+│── README.md            # Project documentation 
 
 🚀 How to Run the Project?
+
 1️⃣ Clone the repository:
 
 git clone https://github.com/udaysatyakumar/DataScienceProjects.git
+
 cd StudentPerformance
 
 2️⃣ Install dependencies:
