@@ -1,15 +1,18 @@
+Student Performance Project 📊🚀
+
+This repository contains end-to-end Data Science & Machine Learning projects, showcasing various aspects of data preprocessing, feature engineering, model building, evaluation, and deployment.
  StudentPerformance 🎓📈
  
 Objective: Predict student performance based on various socio-economic and academic factors using Machine Learning.
 
 🔹 Project Workflow
 
-✅ Data Collection: Student scores and demographic details
-✅ Data Preprocessing: Handling missing data, encoding categorical variables
-✅ Feature Engineering: Selecting important features influencing student performance
-✅ Model Building: Training Linear Regression, Decision Tree, Random Forest, and XGBoost
-✅ Model Evaluation: RMSE, R² score, MAE for performance measurement
-✅ Deployment: Deploying the model using Flask & Streamlit
+✅ Data Collection: Student scores and demographic details 
+✅ Data Preprocessing: Handling missing data, encoding categorical variables 
+✅ Feature Engineering: Selecting important features influencing student performance 
+✅ Model Building: Training Linear Regression, Decision Tree, Random Forest, and XGBoost 
+✅ Model Evaluation: RMSE, R² score, MAE for performance measurement 
+✅ Deployment: Deploying the model using Flask 
 
 📂 Project Structure
 
@@ -40,6 +43,13 @@ python src/train_model.py
 4️⃣ Deploy using Flask:
 
 python app/main.py
+
+🛠 Tech Stack & Tools Used
+
+✔ Programming Language: Python 
+✔ DataBase: MYSQL 
+✔ Libraries & Frameworks: Pandas, NumPy, Scikit-learn, MLFLOW,DagsHub, Matplotlib, Flask 
+✔ Deployment: Docker, AWS (ECR, ECS), GitHub Actions 
 
 📢 Contact & Contribution
 
